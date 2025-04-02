@@ -5,8 +5,6 @@ Below is an image of the Smart Learning Aid prototype:
 
 ![(path/to/my/image.png)]
 
-> Replace `path/to/your/image.png` with the actual path to your prototype image.
-
 The **Smart Learning Aid** is an innovative solution designed to enhance classroom interaction by enabling learners to participate actively without the need for mobile phones. This system fosters a distraction-free learning environment while promoting engagement and collaboration.
 
 ## Features
@@ -57,5 +55,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or support, please contact us at [support@smartlearningaid.com](mailto:charlesmuthui206@gmail
+For questions or support, please contact us at [charlesmuthui206@gmail.com](mailto:charlesmuthui206@gmail
 com).

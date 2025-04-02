@@ -55,5 +55,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or support, please contact us at [charlesmuthui206@gmail.com](mailto:charlesmuthui206@gmail
+For questions or support, please contact us at ![charlesmuthui206@gmail.com](mailto:charlesmuthui206@gmail
 com).

@@ -3,7 +3,7 @@
 
 Below is an image of the Smart Learning Aid prototype:
 
-![Smart Learning Aid Prototype](path/to/your/image.png)
+![(path/to/my/image.png)]
 
 > Replace `path/to/your/image.png` with the actual path to your prototype image.
 
@@ -57,4 +57,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or support, please contact us at [support@smartlearningaid.com](mailto:support@smartlearningaid.com).
+For questions or support, please contact us at [support@smartlearningaid.com](mailto:charlesmuthui206@gmail
+com).

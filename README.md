@@ -3,7 +3,7 @@
 
 Below is an image of the Smart Learning Aid prototype:
 
-path/to/my/preview.png
+![Preview Image](preview.png)
 
 The **Smart Learning Aid** is an innovative solution designed to enhance classroom interaction by enabling learners to participate actively without the need for mobile phones. This system fosters a distraction-free learning environment while promoting engagement and collaboration.
 

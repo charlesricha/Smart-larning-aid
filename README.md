@@ -36,6 +36,14 @@ The **Smart Learning Aid** is an innovative solution designed to enhance classro
 - Real-time polling during lectures.
 - Interactive discussions and brainstorming sessions.
 
+## Hardware Used
+
+- 2 ESP32S2 boards - aacted as the slaves (code in student1.c++ & student2.c++)
+- Arduino nano board which acted as the master
+- buttons
+- SSD1306 0.96" OLED display
+- Rechargable batteries (I used 2(3.7v) batteries)
+  
 ## Getting Started
 
 1. Clone the repository:
@@ -55,5 +63,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or support, please contact us at ![charlesmuthui206@gmail.com](mailto:charlesmuthui206@gmail
-com).
+For questions or support, please contact us at ![charlesmuthui206@gmail.com](mailto:charlesmuthui206@gmail.com).

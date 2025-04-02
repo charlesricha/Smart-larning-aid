@@ -3,7 +3,7 @@
 
 Below is an image of the Smart Learning Aid prototype:
 
-![(path/to/my/image.png)]
+path/to/my/preview.png
 
 The **Smart Learning Aid** is an innovative solution designed to enhance classroom interaction by enabling learners to participate actively without the need for mobile phones. This system fosters a distraction-free learning environment while promoting engagement and collaboration.
 
@@ -40,7 +40,7 @@ The **Smart Learning Aid** is an innovative solution designed to enhance classro
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/smart-learning-aid.git
+    git clone https://github.com/charlesricha/Smart-learning-aid.git
     ```
 2. Follow the installation instructions in the [documentation](docs/installation.md).
 3. Start creating interactive content and engage your learners!

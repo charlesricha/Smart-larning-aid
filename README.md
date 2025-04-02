@@ -55,7 +55,7 @@ The **Smart Learning Aid** is an innovative solution designed to enhance classro
 
 ## Contributing
 
-We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.md) to get started.
+We welcome contributions! 
 
 ## License
 
